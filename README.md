@@ -9,7 +9,7 @@ A Python-based simulation of ships traveling between planets using Dijkstra's al
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.15 or lower
 
 ## Installation
 
