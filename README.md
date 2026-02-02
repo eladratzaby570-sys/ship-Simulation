@@ -25,7 +25,7 @@ A Python-based simulation of ships traveling between planets using Dijkstra's al
 Run the simulation from the project root directory:
 
 ```bash
-python -m src.main
+python main.py
 ```
 
 Follow the on-screen prompts to configure the simulation or use the default setup.
@@ -34,3 +34,5 @@ Follow the on-screen prompts to configure the simulation or use the default setu
 
 - **Animation**: A file named `simulation.gif` will be created in the current directory.
 - **Database**: A SQLite file named `cul_data.db` will be created/updated with simulation logs.
+
+
